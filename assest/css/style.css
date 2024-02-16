@@ -1,0 +1,59 @@
+*{
+    font-family: 'Inter', sans-serif!important;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: Inter;
+    line-height: 48px;
+    /* margin: 20px; */
+}
+#box1{
+    background-color: #FFCCCC;
+    height: 747px ;
+}
+#box2{
+    background-color:#FFD4C7 ;
+    height: 355px;
+}
+
+#box3{
+    background-color: #BAB9E2;
+    height: 370px;
+}
+
+#box4{
+    background-color:
+    #D7BDBD ;
+    height: 354px;
+}
+
+#box5{
+    background-color:
+    #E1FFC3 ;
+    height: 354px;
+}
+
+#box6{
+    background-color: 
+    #77DFF5;
+    height:354px;
+}
+
+#box7{
+    background-color:
+    #D7D4BD;
+    height: 354px;
+}
+#box-8{
+    background-color: black;
+    height: 129px;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    padding: 50px;
+    line-height: 38px;
+    box-sizing: border-box;
+}
